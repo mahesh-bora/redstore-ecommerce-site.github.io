@@ -1,4 +1,4 @@
-# redstore-ecommerce-site.github.io
+# ecommerce-site.github.io
 <h1>Overview:</h1>
 <p> All the Google Cloud Career Practitioner concepts and the Google Cloud technologies have been studied thoroughly after the 30 days GCCP camp by facilitator Krishna Mundada.</p>
 <p>The site aims to work efficiently for an ecommerce company whose basic aim is to sell clothes, shoes, watches, etc. online.</p>
